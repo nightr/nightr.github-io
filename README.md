@@ -1,2 +1,2 @@
-# nightr.github-io
+# nightr.github.io
 Blog
